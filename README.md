@@ -18,3 +18,7 @@ This project simulates the **entire product lifecycle**, including:
 - Release planning and versioning
 
 👉 Built to reflect how real fintech teams ship products.
+
+## 🧭 Workflow Diagram
+
+![Workflow](./assets/workflow.png)
