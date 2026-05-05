@@ -1,4 +1,4 @@
-📱 Digital Wallet Simulation
+##📱 Digital Wallet Simulation
 FinTech QA, UAT & Release Management Project
 ⚡ This project demonstrates end-to-end ownership of a fintech product lifecycle, not just testing.
 
@@ -8,7 +8,7 @@ FinTech QA, UAT & Release Management Project
 ![Type](https://img.shields.io/badge/Project-Simulation-purple)
 ![Tools](https://img.shields.io/badge/Tools-Jira%20%7C%20Confluence%20%7C%20Excel%20%7C%20Notion-lightgrey)   
 
-🚀 Overview
+##🚀 Overview
 
 This project simulates a real-world digital wallet system and demonstrates how a product moves from idea → development → testing → release.
 
@@ -24,7 +24,7 @@ QA testing & defect tracking
 Regression validation
 UAT & release sign-off
 
-🎯 Objectives
+##🎯 Objectives
 Simulate a FinTech product lifecycle
 Apply QA + UAT best practices
 Understand release management workflows
