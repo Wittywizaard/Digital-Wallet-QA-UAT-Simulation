@@ -4,7 +4,7 @@
 ![Focus](https://img.shields.io/badge/Focus-QA%20%7C%20UAT%20%7C%20Release-green)
 ![Methodology](https://img.shields.io/badge/Methodology-Agile-orange)
 ![Type](https://img.shields.io/badge/Project-Simulation-purple)
-![Tools](https://img.shields.io/badge/Tools-Jira%20%7C%20Excel%20%7C%20Notion-lightgrey)   
+![Tools](https://img.shields.io/badge/Tools-Jira%20%7C%20Confluence%20%7C%20Excel%20%7C%20Notion-lightgrey)   
 
 ## 💥 Why This Project is Different
 
