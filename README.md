@@ -8,7 +8,9 @@ FinTech QA, UAT & Release Management Project
 ![Type](https://img.shields.io/badge/Project-Simulation-purple)
 ![Tools](https://img.shields.io/badge/Tools-Jira%20%7C%20Confluence%20%7C%20Excel%20%7C%20Notion-lightgrey)   
 
-## 🚀 Overview
+
+
+##  Overview
 
 This project simulates a real-world digital wallet system and demonstrates how a product moves from idea → development → testing → release.
 
@@ -24,7 +26,9 @@ QA testing & defect tracking
 Regression validation
 UAT & release sign-off
 
-## 🎯 Objectives
+
+
+##  Objectives
 Simulate a FinTech product lifecycle
 Apply QA + UAT best practices
 Understand release management workflows
@@ -33,6 +37,7 @@ Build a product + QA hybrid mindset
 ## 🧭 Workflow Diagram
 
 ![Workflow](./assets/workflow.png) 
+
 
 
 ## 📌 User Stories (Jira)
@@ -63,7 +68,7 @@ Tracked progress using To Do → In Progress → Done
 
 
 
-## 🗂️ Sprint & Release Planning
+##  Sprint & Release Planning
 
 🟢 Sprint 1 (Core → Release v1.0)
 User Registration
@@ -75,7 +80,7 @@ Transaction History
 Refunds
 Notifications
 
-📦 Release Strategy
+Release Strategy
 v1.0 → Core wallet features
 v1.1 → Enhancements + bug fixes
 
@@ -84,9 +89,9 @@ Dependencies (e.g., payment APIs, SMS services)
 Rollback plans for each feature
 
 
-## 🧪 QA & Testing
+##  QA & Testing
 
-✔ Manual Testing
+ Manual Testing
 
 Designed structured test cases covering:
 
@@ -94,12 +99,12 @@ Positive scenarios
 Negative scenarios
 Edge cases
 
-## 📄 Test Case Format
+##  Test Case Format
 
 | Test Case ID | Feature | Steps | Expected Result | Actual Result | Status |
 
 
-## 🐞 Defect Management
+##  Defect Management
 
 Maintained a defect log with:
 
@@ -115,7 +120,7 @@ Tracking bug lifecycle
 📌 What is it?
 Whenever a new feature is added (like Refund), we verify that existing features still work correctly.
 
-✅ Example Checks:
+ Example Checks:
 Login works after refund module
 Add money updates balance correctly
 History reflects payments + refunds
@@ -123,7 +128,7 @@ History reflects payments + refunds
 👉 Ensures system stability after every release
 
 
-## 🧑‍💼 UAT (User Acceptance Testing)
+##  UAT (User Acceptance Testing)
 
 Conducted a mock UAT cycle with stakeholder perspective to simulate real-world release approval.
 
@@ -132,7 +137,7 @@ End-to-end user journey validation
 Business scenario testing
 Feedback-based improvements
 
-## 📄 Output: UAT Report
+##  Output: UAT Report
 
 ## 🔄 QA Workflow Followed
 Requirement understanding
@@ -147,26 +152,9 @@ Release sign-off
 
 
 
-digital-wallet-qa-uat-simulation/
-│
-├── README.md
-├── assets/
-│   └── workflow.png
-│
-├── docs/
-│   └── UAT_Report.docx
-│
-├── test-artifacts/
-│   ├── TestCases.xlsx
-│   ├── DefectLog.xlsx
-│   ├── Regression_Checklist.xlsx
-│
-├── jira/
-│   └── user-stories.md
 
 
-
-## 🧠 Key Learnings
+##  Key Learnings
 QA is not just testing—it’s ensuring product reliability
 Writing clear user stories improves testing clarity
 Bugs should be prioritized based on user impact
@@ -174,7 +162,7 @@ Regression testing is critical for stable releases
 UAT ensures the product is business-ready, not just technically correct
 
 
-## 🎯 Outcome
+##  Outcome
 Built a realistic fintech QA & release simulation
 Demonstrated:
 End-to-end ownership
@@ -182,7 +170,7 @@ Structured thinking
 Product + QA collaboration
 
 
-## 🔮 Future Improvements
+##  Future Improvements
 Add API testing
 Integrate CI/CD pipeline
 Expand into fraud detection scenarios
