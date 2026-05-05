@@ -1,5 +1,5 @@
 ## 📱 Digital Wallet Simulation
-FinTech QA, UAT & Release Management Project
+FinTech QA, UAT & Release Management Project.
 ⚡ This project demonstrates end-to-end ownership of a fintech product lifecycle, not just testing.
 
 ![Domain](https://img.shields.io/badge/Domain-FinTech-blue)
@@ -20,11 +20,11 @@ User Registration → Add Money → Pay Merchant → Refund → Notifications
 
 Unlike typical QA projects, this focuses on complete product lifecycle ownership, including:
 
-Product thinking (user stories)
-Agile sprint planning
-QA testing & defect tracking
-Regression validation
-UAT & release sign-off
+Product thinking (user stories).
+Agile sprint planning.
+QA testing & defect tracking.
+Regression validation.
+UAT & release sign-off.
 
 
 
@@ -61,9 +61,9 @@ Notifications (SMS/Email)
 Alerts sent for every transaction
 
 
-## 📊 Jira Execution (Backlog + Board)
-Created backlog and organized work into sprints
-Tracked progress using To Do → In Progress → Done
+##  Jira Execution (Backlog + Board)
+Created backlog and organized work into sprints.
+Tracked progress using To Do → In Progress → Done.
 
 
 
@@ -71,9 +71,9 @@ Tracked progress using To Do → In Progress → Done
 ##  Sprint & Release Planning
 
 🟢 Sprint 1 (Core → Release v1.0)
-User Registration
-Add Money
-Pay Merchant
+User Registration.
+Add Money.
+Pay Merchant.
 
 🔵 Sprint 2 (Enhancements → Release v1.1)
 Transaction History
