@@ -1,4 +1,4 @@
-##📱 Digital Wallet Simulation
+## 📱 Digital Wallet Simulation
 FinTech QA, UAT & Release Management Project
 ⚡ This project demonstrates end-to-end ownership of a fintech product lifecycle, not just testing.
 
@@ -8,7 +8,7 @@ FinTech QA, UAT & Release Management Project
 ![Type](https://img.shields.io/badge/Project-Simulation-purple)
 ![Tools](https://img.shields.io/badge/Tools-Jira%20%7C%20Confluence%20%7C%20Excel%20%7C%20Notion-lightgrey)   
 
-##🚀 Overview
+## 🚀 Overview
 
 This project simulates a real-world digital wallet system and demonstrates how a product moves from idea → development → testing → release.
 
@@ -24,21 +24,20 @@ QA testing & defect tracking
 Regression validation
 UAT & release sign-off
 
-##🎯 Objectives
+## 🎯 Objectives
 Simulate a FinTech product lifecycle
 Apply QA + UAT best practices
 Understand release management workflows
 Build a product + QA hybrid mindset
 
-🧭 Workflow Diagram
+## 🧭 Workflow Diagram
 
 ![Workflow](./assets/workflow.png) 
 
 
-📌 User Stories (Jira)
+## 📌 User Stories (Jira)
 
 Created 7 user stories with acceptance criteria:
-
 Core Features
 User Registration (Mobile + OTP)
 Valid OTP → success, invalid OTP → error
@@ -48,7 +47,7 @@ Pay Merchant (QR/UPI)
 Payment reflected in transaction history
 
 
-Enhancements
+## Enhancements
 Transaction History
 Displays amount, date, merchant
 Refund Processing
@@ -57,33 +56,36 @@ Notifications (SMS/Email)
 Alerts sent for every transaction
 
 
-📊 Jira Execution (Backlog + Board)
+## 📊 Jira Execution (Backlog + Board)
 Created backlog and organized work into sprints
 Tracked progress using To Do → In Progress → Done
 
 
 
 
-🗂️ Sprint & Release Planning
+## 🗂️ Sprint & Release Planning
+
 🟢 Sprint 1 (Core → Release v1.0)
 User Registration
 Add Money
 Pay Merchant
+
 🔵 Sprint 2 (Enhancements → Release v1.1)
 Transaction History
 Refunds
 Notifications
+
 📦 Release Strategy
 v1.0 → Core wallet features
 v1.1 → Enhancements + bug fixes
 
 Also defined:
-
 Dependencies (e.g., payment APIs, SMS services)
 Rollback plans for each feature
 
 
-🧪 QA & Testing
+## 🧪 QA & Testing
+
 ✔ Manual Testing
 
 Designed structured test cases covering:
@@ -91,27 +93,26 @@ Designed structured test cases covering:
 Positive scenarios
 Negative scenarios
 Edge cases
-📄 Test Case Format
+
+## 📄 Test Case Format
 
 | Test Case ID | Feature | Steps | Expected Result | Actual Result | Status |
 
 
-🐞 Defect Management
+## 🐞 Defect Management
 
 Maintained a defect log with:
 
 | Defect ID | Feature | Description | Severity | Status |
 
 Focused on:
-
 Severity-based prioritization
 Clear reproduction steps
 Tracking bug lifecycle
 
 
-🔁 Regression Testing
+## 🔁 Regression Testing
 📌 What is it?
-
 Whenever a new feature is added (like Refund), we verify that existing features still work correctly.
 
 ✅ Example Checks:
@@ -122,19 +123,18 @@ History reflects payments + refunds
 👉 Ensures system stability after every release
 
 
-🧑‍💼 UAT (User Acceptance Testing)
+## 🧑‍💼 UAT (User Acceptance Testing)
 
 Conducted a mock UAT cycle with stakeholder perspective to simulate real-world release approval.
 
 Included:
-
 End-to-end user journey validation
 Business scenario testing
 Feedback-based improvements
 
-📄 Output: UAT Report
+## 📄 Output: UAT Report
 
-🔄 QA Workflow Followed
+## 🔄 QA Workflow Followed
 Requirement understanding
 User story creation (Jira)
 Sprint planning
@@ -166,7 +166,7 @@ digital-wallet-qa-uat-simulation/
 
 
 
-🧠 Key Learnings
+## 🧠 Key Learnings
 QA is not just testing—it’s ensuring product reliability
 Writing clear user stories improves testing clarity
 Bugs should be prioritized based on user impact
@@ -174,7 +174,7 @@ Regression testing is critical for stable releases
 UAT ensures the product is business-ready, not just technically correct
 
 
-🎯 Outcome
+## 🎯 Outcome
 Built a realistic fintech QA & release simulation
 Demonstrated:
 End-to-end ownership
@@ -182,8 +182,7 @@ Structured thinking
 Product + QA collaboration
 
 
-
-🔮 Future Improvements
+## 🔮 Future Improvements
 Add API testing
 Integrate CI/CD pipeline
 Expand into fraud detection scenarios
